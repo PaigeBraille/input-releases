@@ -37,7 +37,7 @@
 </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/PaigeBraille/input-releases/releases/download/0.1.0/Input.0.1.0.dmg"
+        url="https://github.com/PaigeBraille/input-releases/releases/download/mac-v0.1.0/Input.0.1.0.dmg"
         sparkle:version="769"
         sparkle:shortVersionString="0.1.0"
         sparkle:edSignature="HbkgrqEWBjYaQ4GfePGslY91Y7R4TkwuPR7bWCKM3EASkgnegM/cdLukYLLTMpAfpC87LM43F/hs3jNQkBGdCg=="
