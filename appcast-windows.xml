@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Input</title>
+    <link>https://paigebraille.github.io/input-releases/appcast-windows.xml</link>
+    <description>Updates for Input, the six-key braille keyboard for Windows.</description>
+    <language>en</language>
+
+    <item>
+      <title>Input 0.1.0</title>
+      <pubDate>Sat, 29 Aug 2026 05:43:08 +0000</pubDate>
+      <sparkle:version>959</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+          <h3>Important</h3>
+          <ul>
+          <li>Initial release.</li>
+          <li>Requires Windows 10 or newer.</li>
+          </ul>
+
+          <h3>Fixes & Improvements</h3>
+          <ul>
+          <li>Six-key braille input (Perkins-style) with UEB Grade 1 and Grade 2.</li>
+          <li>Grade 1 types live, cell by cell; Grade 2 commits the whole word.</li>
+          <li>Braille View window with a title bar: drag to reposition (remembered), right-click anywhere for the full menu.</li>
+          <li>Ctrl+Alt+B toggles braille mode; works over any focused app.</li>
+          </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/PaigeBraille/input-releases/releases/download/win-v0.1.0/Input.0.1.0.exe"
+        sparkle:version="959"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="TSPo2WyL/uzQVgrcCRLlp5hNDYnhjDh6nRhUbyf1/NH9jNIQES40H8wwSSFPe/p17/Q5J0Me5PMmZJ+DHn30CA=="
+        length="55430928"
+        type="application/octet-stream" />
+    </item>
+
+  </channel>
+</rss>
